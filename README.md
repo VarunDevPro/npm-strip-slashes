@@ -12,8 +12,6 @@ The purpose of this package is to remove multiple slashes which are added during
 
 ## Usage
 
-## Usage
-
 ```javascript
 var normalizePath = require("./index");
 console.log(normalizePath("//blog///first-post/"));
