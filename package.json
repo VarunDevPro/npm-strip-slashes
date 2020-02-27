@@ -1,0 +1,23 @@
+{
+  "name": "strip-slashes",
+  "version": "1.0.0",
+  "description": "A package to remove extra slashes from a url.",
+  "main": "./lib/index.js",
+  "files": [
+    "/lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:varundevpro/npm-strip-slashes"
+  },
+  "keywords": [],
+  "author": "Varun A 🔥",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/varundevpro/npm-strip-slashes/issues"
+  },
+  "homepage": "https://github.com/varundevpro/npm-strip-slashes#readme"
+}
