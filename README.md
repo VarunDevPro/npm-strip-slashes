@@ -17,3 +17,15 @@ var normalizePath = require("./index");
 console.log(normalizePath("//blog///first-post/"));
 // output → /blog/first-post/
 ```
+
+## Contributing
+
+Read the contributing [guidelines](https://github.com/VarunDevPro/npm-strip-slashes/blob/master/.github/CONTRIBUTING.md)
+
+### Code of Conduct
+
+We adopt a Code of Conduct that we expect project participants to adhere to. Please read [the full text](https://github.com/VarunDevPro/npm-strip-slashes/blob/master/.github/CODE_OF_CONDUCT.md) so that you can understand what actions will and will not be tolerated.
+
+## License
+
+[MIT](https://github.com/VarunDevPro/npm-strip-slashes/blob/master/LICENSE)
