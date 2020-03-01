@@ -17,6 +17,8 @@ The purpose of this package is to remove multiple slashes which are added during
 var normalizePath = require("strip-slashes");
 console.log(normalizePath("//blog///first-post/"));
 // output → /blog/first-post/
+console.log(normalizePath("https:////npm.im//strip-slashes"));
+// output → https://npm.im/strip-slashes
 ```
 
 ## Contributing
